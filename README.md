@@ -5,13 +5,13 @@ A patch tool to generate all the possible light condition in a Corona Image Rend
 
 *The render used in the demo was designed by [ENCODE Studio](http://www.encodestudio.net/)*
 
-**Demo**
+**Demo Video [click on the image!]**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=iLX8PxoYfDc
 " target="_blank"><img src="http://img.youtube.com/vi/iLX8PxoYfDc/0.jpg" 
 alt="Corona Image Patcher" width="530" height="325" border="0" /></a>
 
-**Results timelapse**
+**Results timelapse [click on the image!]**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Bub4yPwnGWE
 " target="_blank"><img src="http://img.youtube.com/vi/Bub4yPwnGWE/0.jpg" 
