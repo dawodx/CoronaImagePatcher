@@ -4,6 +4,7 @@ A patch tool to generate all the possible light condition in a Corona Image Rend
 *Small note: This code was done quickly as a prove of concept, therefore you might find it a bit missy! However, I believe it can be enhanced in many different ways! That's why I'm sharing the idea with the community. So feel free :)*
 
 *The render used in the demo was designed by [ENCODE Studio](http://www.encodestudio.net/)*
+
 **Demo**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=iLX8PxoYfDc
