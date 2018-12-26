@@ -1,5 +1,6 @@
 # CoronaImagePatcher
 A patch tool to generate all the possible light condition in a Corona Image Render file.
+This code automatically manipulate all the light mix parameters in a CXR file and generate all the possible combinations in a render image.
 
 *Small note: This code was done quickly as a prove of concept, therefore you might find it a bit missy! However, I believe it can be enhanced in many different ways! That's why I'm sharing the idea with the community. So feel free :)*
 
